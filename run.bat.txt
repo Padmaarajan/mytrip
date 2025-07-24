@@ -1,2 +1,0 @@
-cd /d "D:\JAVA\Pracitse2025\mytrip"
-mvn clean test
