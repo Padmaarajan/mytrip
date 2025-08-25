@@ -1,130 +1,31 @@
-2025-07-23 00:06:43 INFO  TC_002_BusDetailsPage:15 - ***** Starting TC001_Homepage  ****
-2025-07-23 00:06:43 DEBUG TC_002_BusDetailsPage:16 - This is a debug log message
-2025-07-23 00:06:46 INFO  TC_002_BusDetailsPage:23 - Providing Data of Source and Destination
-2025-07-23 00:07:05 INFO  TC_002_BusDetailsPage:37 - Validating expected message..
-2025-07-23 00:07:05 INFO  TC_002_BusDetailsPage:42 - Test passed
-2025-07-23 00:07:05 INFO  TC_002_BusDetailsPage:50 - ***** Finished TC001_Homepage *****
-2025-07-23 00:07:05 INFO  TC_002_BusDetailsPage:25 - Start of TC_002_BusDetailsPage
-2025-07-23 00:07:05 INFO  TC_002_BusDetailsPage:28 - Start of TC_002_BusDetailsPage
-2025-07-23 00:07:29 INFO  TC_002_BusDetailsPage:67 - **** Finished TC002_BusDetailsPage*****
-2025-07-23 00:12:54 INFO  TC_002_BusDetailsPage:15 - ***** Starting TC001_Homepage  ****
-2025-07-23 00:12:54 DEBUG TC_002_BusDetailsPage:16 - This is a debug log message
-2025-07-23 00:12:56 INFO  TC_002_BusDetailsPage:23 - Providing Data of Source and Destination
-2025-07-23 00:13:15 INFO  TC_002_BusDetailsPage:37 - Validating expected message..
-2025-07-23 00:13:15 INFO  TC_002_BusDetailsPage:42 - Test passed
-2025-07-23 00:13:15 INFO  TC_002_BusDetailsPage:50 - ***** Finished TC001_Homepage *****
-2025-07-23 00:13:15 INFO  TC_002_BusDetailsPage:25 - Start of TC_002_BusDetailsPage
-2025-07-23 00:13:15 INFO  TC_002_BusDetailsPage:28 - Start of TC_002_BusDetailsPage
-2025-07-23 00:13:37 INFO  TC_002_BusDetailsPage:67 - **** Finished TC002_BusDetailsPage*****
-2025-07-23 00:16:03 INFO  TC_002_BusDetailsPage:15 - ***** Starting TC001_Homepage  ****
-2025-07-23 00:16:03 DEBUG TC_002_BusDetailsPage:16 - This is a debug log message
-2025-07-23 00:16:05 INFO  TC_002_BusDetailsPage:23 - Providing Data of Source and Destination
-2025-07-23 00:16:24 INFO  TC_002_BusDetailsPage:37 - Validating expected message..
-2025-07-23 00:16:24 INFO  TC_002_BusDetailsPage:42 - Test passed
-2025-07-23 00:16:24 INFO  TC_002_BusDetailsPage:50 - ***** Finished TC001_Homepage *****
-2025-07-23 00:16:24 INFO  TC_002_BusDetailsPage:25 - Start of TC_002_BusDetailsPage
-2025-07-23 00:16:24 INFO  TC_002_BusDetailsPage:28 - Start of TC_002_BusDetailsPage
-2025-07-23 00:16:31 INFO  TC_002_BusDetailsPage:67 - **** Finished TC002_BusDetailsPage*****
-2025-07-23 21:12:32 INFO  TC_003_CustomerDetailsPage:15 - ***** Starting TC001_Homepage  ****
-2025-07-23 21:12:32 DEBUG TC_003_CustomerDetailsPage:16 - This is a debug log message
-2025-07-23 21:12:36 INFO  TC_003_CustomerDetailsPage:23 - Providing Data of Source and Destination
-2025-07-23 21:12:54 INFO  TC_003_CustomerDetailsPage:37 - Validating expected message..
-2025-07-23 21:12:54 INFO  TC_003_CustomerDetailsPage:42 - Test passed
-2025-07-23 21:12:54 INFO  TC_003_CustomerDetailsPage:50 - ***** Finished TC001_Homepage *****
-2025-07-23 21:12:54 INFO  TC_003_CustomerDetailsPage:15 - ***** Starting TC001_Homepage  ****
-2025-07-23 21:12:54 DEBUG TC_003_CustomerDetailsPage:16 - This is a debug log message
-2025-07-23 21:13:05 INFO  TC_003_CustomerDetailsPage:23 - Providing Data of Source and Destination
-2025-07-23 21:13:13 INFO  TC_003_CustomerDetailsPage:37 - Validating expected message..
-2025-07-23 21:13:13 INFO  TC_003_CustomerDetailsPage:42 - Test passed
-2025-07-23 21:13:13 INFO  TC_003_CustomerDetailsPage:50 - ***** Finished TC001_Homepage *****
-2025-07-23 21:13:13 INFO  TC_003_CustomerDetailsPage:26 - Start of TC_002_BusDetailsPage
-2025-07-23 21:13:13 INFO  TC_003_CustomerDetailsPage:29 - Start of TC_002_BusDetailsPage
-2025-07-23 21:13:20 INFO  TC_003_CustomerDetailsPage:68 - **** Finished TC002_BusDetailsPage*****
-2025-07-23 21:13:20 INFO  TC_003_CustomerDetailsPage:36 - Start of TC_003_CustomerDetailsPage
-2025-07-23 21:13:21 INFO  TC_003_CustomerDetailsPage:73 - ***** Finished TC003_CustomerDetailsPage *****
-2025-07-23 21:14:54 INFO  TC_003_CustomerDetailsPage:15 - ***** Starting TC001_Homepage  ****
-2025-07-23 21:14:54 DEBUG TC_003_CustomerDetailsPage:16 - This is a debug log message
-2025-07-23 21:14:56 INFO  TC_003_CustomerDetailsPage:23 - Providing Data of Source and Destination
-2025-07-23 21:15:14 INFO  TC_003_CustomerDetailsPage:37 - Validating expected message..
-2025-07-23 21:15:14 INFO  TC_003_CustomerDetailsPage:42 - Test passed
-2025-07-23 21:15:14 INFO  TC_003_CustomerDetailsPage:50 - ***** Finished TC001_Homepage *****
-2025-07-23 21:15:14 INFO  TC_003_CustomerDetailsPage:15 - ***** Starting TC001_Homepage  ****
-2025-07-23 21:15:14 DEBUG TC_003_CustomerDetailsPage:16 - This is a debug log message
-2025-07-23 21:15:25 INFO  TC_003_CustomerDetailsPage:23 - Providing Data of Source and Destination
-2025-07-23 21:15:34 INFO  TC_003_CustomerDetailsPage:37 - Validating expected message..
-2025-07-23 21:15:34 INFO  TC_003_CustomerDetailsPage:42 - Test passed
-2025-07-23 21:15:34 INFO  TC_003_CustomerDetailsPage:50 - ***** Finished TC001_Homepage *****
-2025-07-23 21:15:34 INFO  TC_003_CustomerDetailsPage:26 - Start of TC_002_BusDetailsPage
-2025-07-23 21:15:34 INFO  TC_003_CustomerDetailsPage:29 - Start of TC_002_BusDetailsPage
-2025-07-23 21:15:42 INFO  TC_003_CustomerDetailsPage:68 - **** Finished TC002_BusDetailsPage*****
-2025-07-23 21:15:42 INFO  TC_003_CustomerDetailsPage:36 - Start of TC_003_CustomerDetailsPage
-2025-07-23 21:15:43 INFO  TC_003_CustomerDetailsPage:73 - ***** Finished TC003_CustomerDetailsPage *****
-2025-07-23 21:16:43 INFO  TC_003_CustomerDetailsPage:15 - ***** Starting TC001_Homepage  ****
-2025-07-23 21:16:43 DEBUG TC_003_CustomerDetailsPage:16 - This is a debug log message
-2025-07-23 21:16:54 INFO  TC_003_CustomerDetailsPage:23 - Providing Data of Source and Destination
-2025-07-23 21:17:14 INFO  TC_003_CustomerDetailsPage:37 - Validating expected message..
-2025-07-23 21:17:14 INFO  TC_003_CustomerDetailsPage:42 - Test passed
-2025-07-23 21:17:14 INFO  TC_003_CustomerDetailsPage:50 - ***** Finished TC001_Homepage *****
-2025-07-23 21:17:14 INFO  TC_003_CustomerDetailsPage:15 - ***** Starting TC001_Homepage  ****
-2025-07-23 21:17:14 DEBUG TC_003_CustomerDetailsPage:16 - This is a debug log message
-2025-07-23 21:17:24 INFO  TC_003_CustomerDetailsPage:23 - Providing Data of Source and Destination
-2025-07-23 21:17:33 INFO  TC_003_CustomerDetailsPage:37 - Validating expected message..
-2025-07-23 21:17:33 INFO  TC_003_CustomerDetailsPage:42 - Test passed
-2025-07-23 21:17:33 INFO  TC_003_CustomerDetailsPage:50 - ***** Finished TC001_Homepage *****
-2025-07-23 21:17:33 INFO  TC_003_CustomerDetailsPage:26 - Start of TC_002_BusDetailsPage
-2025-07-23 21:17:33 INFO  TC_003_CustomerDetailsPage:29 - Start of TC_002_BusDetailsPage
-2025-07-23 21:17:39 INFO  TC_003_CustomerDetailsPage:68 - **** Finished TC002_BusDetailsPage*****
-2025-07-23 21:17:39 INFO  TC_003_CustomerDetailsPage:36 - Start of TC_003_CustomerDetailsPage
-2025-07-23 21:17:40 INFO  TC_003_CustomerDetailsPage:73 - ***** Finished TC003_CustomerDetailsPage *****
-2025-07-23 21:18:17 INFO  TC_003_CustomerDetailsPage:15 - ***** Starting TC001_Homepage  ****
-2025-07-23 21:18:17 DEBUG TC_003_CustomerDetailsPage:16 - This is a debug log message
-2025-07-23 21:18:19 INFO  TC_003_CustomerDetailsPage:23 - Providing Data of Source and Destination
-2025-07-23 21:18:37 INFO  TC_003_CustomerDetailsPage:37 - Validating expected message..
-2025-07-23 21:18:37 INFO  TC_003_CustomerDetailsPage:42 - Test passed
-2025-07-23 21:18:37 INFO  TC_003_CustomerDetailsPage:50 - ***** Finished TC001_Homepage *****
-2025-07-23 21:18:37 INFO  TC_003_CustomerDetailsPage:15 - ***** Starting TC001_Homepage  ****
-2025-07-23 21:18:37 DEBUG TC_003_CustomerDetailsPage:16 - This is a debug log message
-2025-07-23 21:18:48 INFO  TC_003_CustomerDetailsPage:23 - Providing Data of Source and Destination
-2025-07-23 21:18:56 INFO  TC_003_CustomerDetailsPage:37 - Validating expected message..
-2025-07-23 21:18:56 INFO  TC_003_CustomerDetailsPage:42 - Test passed
-2025-07-23 21:18:56 INFO  TC_003_CustomerDetailsPage:50 - ***** Finished TC001_Homepage *****
-2025-07-23 21:18:56 INFO  TC_003_CustomerDetailsPage:26 - Start of TC_002_BusDetailsPage
-2025-07-23 21:18:56 INFO  TC_003_CustomerDetailsPage:29 - Start of TC_002_BusDetailsPage
-2025-07-23 21:19:03 INFO  TC_003_CustomerDetailsPage:68 - **** Finished TC002_BusDetailsPage*****
-2025-07-23 21:19:03 INFO  TC_003_CustomerDetailsPage:36 - Start of TC_003_CustomerDetailsPage
-2025-07-23 21:19:05 INFO  TC_003_CustomerDetailsPage:73 - ***** Finished TC003_CustomerDetailsPage *****
-2025-07-23 22:01:46 INFO  TC_004_PaymentPage:15 - ***** Starting TC001_Homepage  ****
-2025-07-23 22:01:46 DEBUG TC_004_PaymentPage:16 - This is a debug log message
-2025-07-23 22:01:48 INFO  TC_004_PaymentPage:23 - Providing Data of Source and Destination
-2025-07-23 22:02:07 INFO  TC_004_PaymentPage:37 - Validating expected message..
-2025-07-23 22:02:07 INFO  TC_004_PaymentPage:42 - Test passed
-2025-07-23 22:02:07 INFO  TC_004_PaymentPage:50 - ***** Finished TC001_Homepage *****
-2025-07-23 22:02:07 INFO  TC_004_PaymentPage:15 - ***** Starting TC001_Homepage  ****
-2025-07-23 22:02:07 DEBUG TC_004_PaymentPage:16 - This is a debug log message
-2025-07-23 22:02:18 INFO  TC_004_PaymentPage:23 - Providing Data of Source and Destination
-2025-07-23 22:02:26 INFO  TC_004_PaymentPage:37 - Validating expected message..
-2025-07-23 22:02:26 INFO  TC_004_PaymentPage:42 - Test passed
-2025-07-23 22:02:26 INFO  TC_004_PaymentPage:50 - ***** Finished TC001_Homepage *****
-2025-07-23 22:02:26 INFO  TC_004_PaymentPage:26 - Start of TC_002_BusDetailsPage
-2025-07-23 22:02:26 INFO  TC_004_PaymentPage:29 - Start of TC_002_BusDetailsPage
-2025-07-23 22:02:32 INFO  TC_004_PaymentPage:68 - **** Finished TC002_BusDetailsPage*****
-2025-07-23 22:02:32 INFO  TC_004_PaymentPage:15 - ***** Starting TC001_Homepage  ****
-2025-07-23 22:02:32 DEBUG TC_004_PaymentPage:16 - This is a debug log message
-2025-07-23 22:02:42 INFO  TC_004_PaymentPage:23 - Providing Data of Source and Destination
-2025-07-23 22:02:50 INFO  TC_004_PaymentPage:37 - Validating expected message..
-2025-07-23 22:02:50 INFO  TC_004_PaymentPage:42 - Test passed
-2025-07-23 22:02:50 INFO  TC_004_PaymentPage:50 - ***** Finished TC001_Homepage *****
-2025-07-23 22:02:50 INFO  TC_004_PaymentPage:15 - ***** Starting TC001_Homepage  ****
-2025-07-23 22:02:50 DEBUG TC_004_PaymentPage:16 - This is a debug log message
-2025-07-23 22:03:01 INFO  TC_004_PaymentPage:23 - Providing Data of Source and Destination
-2025-07-23 22:03:09 INFO  TC_004_PaymentPage:37 - Validating expected message..
-2025-07-23 22:03:09 INFO  TC_004_PaymentPage:42 - Test passed
-2025-07-23 22:03:09 INFO  TC_004_PaymentPage:50 - ***** Finished TC001_Homepage *****
-2025-07-23 22:03:09 INFO  TC_004_PaymentPage:26 - Start of TC_002_BusDetailsPage
-2025-07-23 22:03:09 INFO  TC_004_PaymentPage:29 - Start of TC_002_BusDetailsPage
-2025-07-23 22:03:15 INFO  TC_004_PaymentPage:68 - **** Finished TC002_BusDetailsPage*****
-2025-07-23 22:03:15 INFO  TC_004_PaymentPage:35 - Start of TC_003_CustomerDetailsPage
-2025-07-23 22:03:17 INFO  TC_004_PaymentPage:72 - ***** Finished TC003_CustomerDetailsPage *****
-2025-07-23 22:03:17 INFO  TC_004_PaymentPage:45 - Start of TC_004_PaymentPage
-2025-07-23 22:03:48 ERROR TC_004_PaymentPage:59 - Test failed: Expected condition failed: waiting for visibility of Proxy element for: DefaultElementLocator 'By.xpath: (//span[@class='push-right'])[3]' (tried for 10 second(s) with 500 milliseconds interval)
-2025-07-23 22:03:48 INFO  TC_004_PaymentPage:64 - ***** Finished TC_004_PaymentPage *****
+2025-08-25 07:49:44 DEBUG TestNG:82 - suiteXmlPath: "D:\JAVA\Pracitse2025\mytrip\master.xml"
+2025-08-25 07:49:45 TRACE Graph:52 - [Graph] ADDING NODE BaseClass.setup(java.lang.String,java.lang.String)[pri:0, instance:null] -1422203584
+2025-08-25 07:49:45 TRACE Graph:52 - [Graph] ================ SORTING
+2025-08-25 07:49:45 TRACE Graph:52 - [Graph] =============== DONE SORTING
+2025-08-25 07:49:45 TRACE Graph:52 - [Graph] ====== SORTED NODES
+2025-08-25 07:49:45 TRACE Graph:52 - [Graph] ====== END SORTED NODES
+2025-08-25 07:49:45 TRACE Graph:52 - [Graph] ADDING NODE BaseClass.tearDown()[pri:0, instance:null] 829687191
+2025-08-25 07:49:45 TRACE Graph:52 - [Graph] ================ SORTING
+2025-08-25 07:49:45 TRACE Graph:52 - [Graph] =============== DONE SORTING
+2025-08-25 07:49:45 TRACE Graph:52 - [Graph] ====== SORTED NODES
+2025-08-25 07:49:45 TRACE Graph:52 - [Graph] ====== END SORTED NODES
+2025-08-25 07:49:45 TRACE Graph:52 - [Graph] ADDING NODE TC_004_PaymentPage.testPaymentPage(java.lang.String)[pri:0, instance:testCases.TC_004_PaymentPage@2ef14fe] 45742731
+2025-08-25 07:49:45 TRACE Graph:52 - [Graph] ================ SORTING
+2025-08-25 07:49:45 TRACE Graph:52 - [Graph] =============== DONE SORTING
+2025-08-25 07:49:45 TRACE Graph:52 - [Graph] ====== SORTED NODES
+2025-08-25 07:49:45 TRACE Graph:52 - [Graph] ====== END SORTED NODES
+2025-08-25 07:49:59 INFO  TC_004_PaymentPage:15 - ***** Starting TC001_Homepage  ****
+2025-08-25 07:49:59 DEBUG TC_004_PaymentPage:16 - This is a debug log message
+2025-08-25 07:50:01 INFO  TC_004_PaymentPage:23 - Providing Data of Source and Destination
+2025-08-25 07:50:09 INFO  TC_004_PaymentPage:37 - Validating expected message..
+2025-08-25 07:50:09 INFO  TC_004_PaymentPage:42 - Test passed
+2025-08-25 07:50:09 INFO  TC_004_PaymentPage:50 - ***** Finished TC001_Homepage *****
+2025-08-25 07:50:09 INFO  TC_004_PaymentPage:15 - ***** Starting TC001_Homepage  ****
+2025-08-25 07:50:09 DEBUG TC_004_PaymentPage:16 - This is a debug log message
+2025-08-25 07:50:20 INFO  TC_004_PaymentPage:23 - Providing Data of Source and Destination
+2025-08-25 07:50:28 INFO  TC_004_PaymentPage:37 - Validating expected message..
+2025-08-25 07:50:28 INFO  TC_004_PaymentPage:42 - Test passed
+2025-08-25 07:50:28 INFO  TC_004_PaymentPage:50 - ***** Finished TC001_Homepage *****
+2025-08-25 07:50:28 INFO  TC_004_PaymentPage:26 - Start of TC_002_BusDetailsPage
+2025-08-25 07:50:28 INFO  TC_004_PaymentPage:29 - Start of TC_002_BusDetailsPage
+2025-08-25 07:51:01 INFO  TC_004_PaymentPage:68 - **** Finished TC002_BusDetailsPage*****
